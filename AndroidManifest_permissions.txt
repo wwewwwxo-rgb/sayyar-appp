@@ -1,0 +1,6 @@
+أذونات Android التي يضيفها GitHub Actions تلقائياً:
+android.permission.INTERNET
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_FINE_LOCATION
+
+لا نطلب إذن الموقع بالخلفية في هذه النسخة. يلزم أن يمنح المستخدم إذن الموقع وأن يكون GPS مفعلاً.
